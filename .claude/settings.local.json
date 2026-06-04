@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo chmod -R 777 /Users/pasookmanutsa/.npm/_cacache)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir=no --import-alias=\"@/*\" --no-git)",
+      "Bash(npm config *)"
+    ]
+  }
+}
