@@ -265,7 +265,7 @@ export const translations = {
       packages: [
         {
           name: 'Basic',
-          price: '฿X,XXX',
+          price: '฿4,500',
           description: 'Perfect for straightforward visa applications',
           features: [
             'Initial consultation',
@@ -276,7 +276,7 @@ export const translations = {
         },
         {
           name: 'Standard',
-          price: '฿X,XXX',
+          price: '฿12,000',
           description: 'Our most popular package for most visa types',
           features: [
             'Everything in Basic',
@@ -288,7 +288,7 @@ export const translations = {
         },
         {
           name: 'Premium',
-          price: '฿X,XXX',
+          price: '฿15,000+',
           description: 'Full-service premium visa consulting',
           features: [
             'Everything in Standard',
@@ -672,7 +672,7 @@ export const translations = {
       packages: [
         {
           name: 'Basic',
-          price: '฿X,XXX',
+          price: '฿4,500',
           description: 'เหมาะสำหรับการสมัครวีซ่าทั่วไป',
           features: [
             'คำปรึกษาเบื้องต้น',
@@ -683,7 +683,7 @@ export const translations = {
         },
         {
           name: 'Standard',
-          price: '฿X,XXX',
+          price: '฿12,000',
           description: 'แพ็กเกจยอดนิยมสำหรับวีซ่าส่วนใหญ่',
           features: [
             'ทุกอย่างใน Basic',
@@ -695,7 +695,7 @@ export const translations = {
         },
         {
           name: 'Premium',
-          price: '฿X,XXX',
+          price: '฿15,000+',
           description: 'บริการให้คำปรึกษาวีซ่าแบบครบวงจร',
           features: [
             'ทุกอย่างใน Standard',

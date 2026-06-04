@@ -26,7 +26,7 @@ export default function PricingCard({
     <div
       className={`relative rounded-2xl p-8 flex flex-col transition-all duration-300 ${
         recommended
-          ? 'shadow-2xl scale-105 border-2'
+          ? 'shadow-2xl border-2 ring-4 ring-blue-100'
           : 'border border-gray-100 shadow-sm hover:shadow-md'
       }`}
       style={

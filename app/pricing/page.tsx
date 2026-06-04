@@ -30,8 +30,8 @@ export default function PricingPage() {
 
         {/* Pricing Cards */}
         <section className="py-20 bg-gray-50">
-          <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid md:grid-cols-3 gap-8 items-center">
+          <div className="max-w-6xl mx-auto px-6 sm:px-8 lg:px-12">
+            <div className="grid md:grid-cols-3 gap-6 lg:gap-8 items-stretch py-6">
               {pp.packages.map((pkg, i) => (
                 <PricingCard
                   key={i}
